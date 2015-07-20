@@ -15,4 +15,4 @@ MileStone 意为里程碑。一般一个改动比较大的版本称为一个 Mil
 * Documentation：文档编写。本文编写时仅有一个对应的 issue ：[Document usage of chromeOptions](https://github.com/appium/appium/issues/4487)
 * Bugs：存在的缺陷。所有缺陷均在[此列表](https://github.com/appium/appium/milestones/Bugs)中。
 * Features：需要添加的新特性。所有关于 appium 未来新功能的 issue 均在[此列表](https://github.com/appium/appium/milestones/Features)中
-* Appium 1.5：在 Appium 1.5 中需要完成的 issue ，即 appium 1.5 中将会出现的新特性。
+* Appium 1.5：在 Appium 1.5 中需要完成的 issue ，即 appium 1.5 的主要变更。
