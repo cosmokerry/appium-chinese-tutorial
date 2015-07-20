@@ -6,7 +6,7 @@ MileStone 意为里程碑。一般一个改动比较大的版本称为一个 Mil
 
 对于 appium ，中间版本号的变更一般会作为一个 MileStone，如 Appium 1.4，Appium 1.5 为一个里程碑。小版本号的变更一般为 bug fix 或者小功能的添加，如 Appium 1.4.7 到 1.4.8 之间的变更为[ fix 了两个 bug ](https://discuss.appium.io/t/appium-version-1-4-8-released/5209)。
 
-本文编写时具有的 MileStone  如下：
+本文编写时 Appium 未来的 MileStone  如下：
 
 ![milestone](Screen Shot 2015-07-21 at 12.48.07 am.png)
 
