@@ -45,6 +45,8 @@
 
 到 <https://bitbucket.org/appium/appium.app/downloads/> 下载 AppiumForWindows 。解压后即完成安装。
 
+如果官方地址下载速度慢，可以到 testerhome 提供的[国内下载地址](https://testerhome.com/topics/680)下载。
+
 
 ## 运行Appium
 
